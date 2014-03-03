@@ -1,5 +1,5 @@
 {
-    "name": "plutonex/themes",
+    "name": "autocar/themes",
     "description": "Theme Managing Library for Laravel 4 php framework",
     "keywords":["theme","laravel","laravel4","plutonex"],
     "license":"BSD",
